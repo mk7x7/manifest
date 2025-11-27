@@ -18,5 +18,8 @@
   <project path="vendor/xiaomi/mt6768-common" name="hipexscape/proprietary_vendor_xiaomi_mt6768-common.git" remote="hub" revision="13"  />
   <project path="vendor/xiaomi/lancelot" name="mt6768-dev/proprietary_vendor_xiaomi_lancelot.git" remote="hub" revision="lineage-20"  />
   <project path="vendor/xiaomi/merlinx" name="mt6768-dev/proprietary_vendor_xiaomi_merlinx.git" remote="hub" revision="lineage-20"  />
-    
-  </manifest>
+
+  <!-- ViperFX -->
+  <project path="packages/apps/ViPER4AndroidFX" name=TogoFire/packages_apps_ViPER4AndroidFX" remote="hub" revision="v4a"  />
+ 
+</manifest>

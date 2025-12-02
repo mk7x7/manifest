@@ -21,5 +21,9 @@
 
   <!-- ViperFX -->
   <project path="packages/apps/ViPER4AndroidFX" name="mk7x7/packages_apps_ViPER4AndroidFX" remote="hub" revision="v4a"  />
+
+  <!-- Trebuchet -->
+  <remove-project name="LineageOS/android_packages_apps_Trebuchet" />
+  <project path="packages/apps/Trebuchet" name="mk7x7/android_packages_apps_Trebuchet" remote="hub" revision="lineage-20.0"  />
  
 </manifest>

@@ -30,7 +30,7 @@
   <remove-project name="LineageOS/android_vendor_lineage" />
   <project path="vendor/lineage" name="mk7x7/android_vendor_lineage" remote="hub" revision="lineage-20.0"  />
 
-  <!-- Vendor Lineage -->
+  <!-- Framework Base -->
   <remove-project name="LineageOS/android_frameworks_base" />
   <project path="frameworks/base" name="mk7x7/android_frameworks_base" remote="hub" revision="lineage-20.0"  />
  

@@ -35,5 +35,5 @@
   <project path="frameworks/base" name="mk7x7/android_frameworks_base" remote="hub" revision="lineage-20.0"  />
 
   <!-- Custom fonts -->
-  <project path="vendor/fonts" name="mk7x7/android_vendor_fonts" remote="hub" revision="master"  />
+  <project path="vendor/addons" name="mk7x7/android_vendor_addons" remote="hub" revision="main"  />
 </manifest>

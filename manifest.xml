@@ -19,9 +19,6 @@
   <project path="vendor/xiaomi/lancelot" name="mt6768-dev/proprietary_vendor_xiaomi_lancelot.git" remote="hub" revision="lineage-20"  />
   <project path="vendor/xiaomi/merlinx" name="mt6768-dev/proprietary_vendor_xiaomi_merlinx.git" remote="hub" revision="lineage-20"  />
 
-  <!-- ViperFX -->
-  <project path="packages/apps/ViPER4AndroidFX" name="mk7x7/packages_apps_ViPER4AndroidFX" remote="hub" revision="v4a"  />
-
   <!-- Trebuchet -->
   <remove-project name="LineageOS/android_packages_apps_Trebuchet" />
   <project path="packages/apps/Trebuchet" name="mk7x7/android_packages_apps_Trebuchet" remote="hub" revision="lineage-20.0"  />
@@ -33,7 +30,4 @@
   <!-- Framework Base -->
   <remove-project name="LineageOS/android_frameworks_base" />
   <project path="frameworks/base" name="mk7x7/android_frameworks_base" remote="hub" revision="lineage-20.0"  />
-
-  <!-- Custom fonts -->
-  <project path="vendor/addons" name="mk7x7/android_vendor_addons" remote="hub" revision="main"  />
 </manifest>

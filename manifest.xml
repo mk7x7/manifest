@@ -20,7 +20,7 @@
   <project path="vendor/xiaomi/merlinx" name="mk7x7/proprietary_vendor_xiaomi_merlinx.git" remote="hub" revision="16.2" />
 
   <!-- Framework Av -->
-  <remove-project name="AxionAOSP/android_frameworks_av" />
+  <remove-project path="framework/av />
   <project path="frameworks/av" name="mk7x7/android_frameworks_av" remote="hub" revision="lineage-23.2"  />
   
 </manifest>

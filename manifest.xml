@@ -22,5 +22,8 @@
   <!-- Framework Av -->
   <remove-project path="frameworks/av" />
   <project path="frameworks/av" name="mk7x7/android_frameworks_av" remote="hub" revision="lineage-23.2"  />
+
+  <!-- Ims -->
+  <project path="vendor/mediatek/ims" name="techyminati/android_vendor_mediatek_ims.git" remote="hub" revision="android-16-qpr2"
   
 </manifest>
